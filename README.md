@@ -11,7 +11,7 @@
 
 [下载地址1](http://143300055)
 
-[下载地址2](https://github.com/hello245m/free-stockdb/releases/tag/%E6%B5%8B%E8%AF%950.3.2)
+[下载地址2](https://github.com/hello245m/free-stockdb/releases/tag/测试版本0.3.5)
 
 
 
@@ -255,4 +255,4 @@ cmake --build cpp/build --config Release
 
 本项目用于软件学习、数据管理与量化研究，不构成投资建议。任何数据完整性、及时性和交易决策风险均应由使用者独立评估。
 
-[08-05]赞助商：[![Powered by Atlas Cloud](https://www.atlascloud.ai/oss-program/powered-by-atlas-cloud.svg)](https://www.atlascloud.ai/?ref=HRYSJ8)
+[08-05]赞助商：[![Powered by Atlas Cloud](https://www.atlascloud.ai/oss-program/powered-by-atlas-cloud.svg)]
